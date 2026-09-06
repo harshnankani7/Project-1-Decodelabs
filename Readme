@@ -1,0 +1,22 @@
+#Password Strength Checker
+#Project 1
+A Python-based Password Strength Checker that evaluates passwords
+according to length and character complexity.
+
+## Features
+- Checks password length
+- Checks for uppercase letters
+- Checks for numbers
+- Checks for symbols
+- Classifies passwords as Weak, Medium, or Strong
+
+## Technologies Used
+- Python
+- String Handling
+- Conditional Statements
+
+## How to Run
+1. Install Python.
+2. Download or clone this repository.
+3. Open the `src` folder.
+4. Run
